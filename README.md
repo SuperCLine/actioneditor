@@ -3,7 +3,7 @@ This project is unity editor plugin for action, skill, AI.
 
 - [Unity Asset Store](https://assetstore.unity.com/packages/slug/154039)
 - [官网](https://supercline.com/game/tool-action/actioneditor.html)
-- [视频-Bilibili](http://supercline.com/)
+- [视频-Bilibili](https://www.bilibili.com/video/av68020221/)
 - [视频-Youtube](https://youtu.be/DnjRlCCigzM)
 
 ![image link](actioneditor.png)
