@@ -40,6 +40,6 @@ This project is unity editor plugin for action, skill, AI.
 ![image link](actioneditor_design.png)
 
 # 可编程管线图 #
-版本2.0即将上线，将实现技能管线所有可编程模块，方便开发者用于扩展，同时新增AI和BUFF两大功能。
+版本2.0已经实现全新技能管线和所有可编程模块，方便开发者用于扩展，同时新增AI和BUFF两大功能。
 
 ![image link](actioneditor_shader.png)
