@@ -1,8 +1,7 @@
 # actioneditor
 This project is unity editor plugin for action, skill, AI.
 
-- [Unity Asset Store](https://assetstore.unity.com/packages/slug/154039)
-- [版本2.0](https://assetstore.unity.com/packages/templates/systems/cline-action-editor-2-163343)
+- [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/cline-action-editor-2-163343)
 - [官网](https://supercline.com/game/tool-action/actioneditor.html)
 - [视频-Bilibili](https://www.bilibili.com/video/av68020221/)
 - [视频-Youtube](https://youtu.be/DnjRlCCigzM)
