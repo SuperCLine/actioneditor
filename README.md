@@ -42,3 +42,6 @@ This project is unity editor plugin for action, skill, AI.
 版本2.0已经实现全新技能管线和所有可编程模块，方便开发者用于扩展，同时新增AI和BUFF两大功能。
 
 ![image link](actioneditor_shader.png)
+
+# [UI Framework](https://github.com/SuperCLine/ui-framework.git) #
+应购买者需求，开源一个UI Lua热更框架，希望能喜欢，给予更多的支持！https://github.com/SuperCLine/ui-framework.git
