@@ -1,5 +1,5 @@
 # actioneditor
-This project is unity editor plugin for action, skill, AI.
+This project is unity editor plugin for action, skill, AI based on unity 2019.4.30f1 or later.
 
 - [Unity Asset Store](https://assetstore.unity.com/packages/templates/systems/cline-action-editor-2-163343)
 - [官网](https://supercline.com/game/tool-action/actioneditor.html)
