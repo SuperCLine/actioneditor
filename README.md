@@ -46,5 +46,5 @@ This project is unity editor plugin for action, skill, AI based on unity 2019.4.
 # [UI Framework](https://github.com/SuperCLine/ui-framework.git) #
 应购买者需求，开源一个UI Lua热更框架，希望能喜欢，给予更多的支持！https://github.com/SuperCLine/ui-framework.git
 
-#[Support Team](https://github.com/SuperCLine-ActionEditor)
+# [Support Team](https://github.com/SuperCLine-ActionEditor)
 如果你是购买者可以申请加入开发者组织！
